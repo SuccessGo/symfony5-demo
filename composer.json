@@ -1,6 +1,6 @@
 {
-    "type": "project",
-    "license": "proprietary",
+    "type": "successgo/symfony5-demo",
+    "license": "MIT",
     "require": {
         "php": "^7.2.5",
         "ext-ctype": "*",
